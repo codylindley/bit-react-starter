@@ -6,7 +6,7 @@ You must have bit install locally!
 
 To install Bit follow these instructions [https://harmony-docs.bit.dev/getting-started/installing-bit](https://harmony-docs.bit.dev/getting-started/installing-bit)
 
-## Start Bit
+## Running the Bit React Starter Workspace
 
 Open a terminal somewhere you want to place a bit workspace and run:
 
